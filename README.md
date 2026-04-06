@@ -26,7 +26,7 @@ El repositorio está organizado de la siguiente manera:
   Documento completo del proyecto terminal. Aquí se encuentran:
   - Planteamiento del problema y objetivos  
   - Marco teórico  
-  - Metodología (recolección, limpieza y procesamiento de datos con la YouTube Data API)  
+  - Metodología 
   - Análisis de datos y resultados cuantitativos  
   - Interpretación de resultados y conclusiones  
 
