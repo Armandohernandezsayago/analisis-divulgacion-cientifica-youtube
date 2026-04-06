@@ -23,11 +23,12 @@ El repositorio está organizado de la siguiente manera:
   *Nota:* No se incluyen todos los datos por tamaño y practicidad.
 
 - **Proyecto_Completo.pdf**  
-  Documento completo del proyecto de investigación. Aquí se encuentran:
+  Documento completo del proyecto terminal. Aquí se encuentran:
+  - Planteamiento del problema y objetivos  
   - Marco teórico  
-  - Metodología  
-  - Resultados detallados  
-  - Interpretaciones y conclusiones  
+  - Metodología (recolección, limpieza y procesamiento de datos con la YouTube Data API)  
+  - Análisis de datos y resultados cuantitativos  
+  - Interpretación de resultados y conclusiones  
 
 - **README.md**  
   Descripción general del proyecto y guía de contenido.
@@ -46,11 +47,28 @@ Para una comprensión completa del análisis y sus conclusiones, se recomienda c
 
 ## Tecnologías utilizadas
 
-- Python  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- YouTube Data API  
+- **Python**  
+  - pandas: manejo y análisis de datos en formato tabular  
+  - numpy: operaciones numéricas y manejo de grandes volúmenes de datos  
+  - matplotlib: generación de gráficos  
+  - seaborn: visualización estadística avanzada  
+  - scipy.stats: análisis estadístico y métricas descriptivas  
+  - langdetect: detección de idioma en textos  
+  - googleapiclient: conexión con la API de YouTube  
+  - datetime e isodate: manejo y conversión de fechas y duraciones  
+  - os: manejo de archivos y directorios  
+
+- **YouTube Data API v3**  
+  Utilizada para la recolección de información de videos, canales y métricas de interacción.
+
+- **Jupyter Notebooks**  
+  Para el desarrollo del análisis combinando código, texto y visualizaciones.
+
+- **Visual Studio Code**  
+  Entorno de desarrollo para la escritura y organización del código.
+
+- **Google Cloud Console**  
+  Gestión del proyecto y generación de credenciales (API Key) para acceder a la API.
 
 ---
 
