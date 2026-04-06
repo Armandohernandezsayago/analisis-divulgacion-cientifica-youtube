@@ -12,17 +12,17 @@ El proyecto fue desarrollado utilizando Python y la YouTube Data API, abarcando 
 
 El repositorio está organizado de la siguiente manera:
 
-- **códigos/**  
+- **Códigos/**  
   Contiene los códigos principales del proyecto en formato Jupyter Notebook. Incluye scripts para:
   - Recolección de datos desde la API de YouTube  
   - Limpieza y filtrado de datos  
   - Análisis estadístico y generación de métricas  
 
-- **datos (muestra)**  
+- **Muestra de Datos/**  
   Incluye una muestra representativa de los datos crudos utilizados en el análisis.  
   *Nota:* No se incluyen todos los datos.
 
-- **Proyecto_Completo.pdf**  
+- **Proyecto Completo.pdf**  
   Documento completo del proyecto terminal. Aquí se encuentran:
   - Planteamiento del problema y objetivos  
   - Marco teórico  
@@ -41,7 +41,7 @@ Debido al volumen de información generada (tablas, métricas y visualizaciones)
 
 Para una comprensión completa del análisis y sus conclusiones, se recomienda consultar el documento:
 
-**Proyecto_Completo.pdf**
+**Proyecto Completo.pdf**
 
 ---
 
