@@ -2,7 +2,7 @@
 
 Este repositorio contiene el proyecto terminal de licenciatura en Matemáticas, enfocado en el análisis de la divulgación científica en YouTube en español. 
 
-El objetivo principal es identificar qué áreas del conocimiento tienen mayor presencia en la plataforma, así como analizar sus niveles de interacción mediante métricas como vistas, likes y comentarios.
+El objetivo principal es identificar qué áreas del conocimiento tienen mayor presencia en la plataforma, así como analizar sus niveles de interacción mediante métricas como vistas, likes, comentarios, entre otras.
 
 El proyecto fue desarrollado utilizando Python y la YouTube Data API, abarcando las etapas de recolección, limpieza, procesamiento y análisis de datos.
 
